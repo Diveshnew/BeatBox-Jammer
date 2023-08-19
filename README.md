@@ -1,4 +1,4 @@
-# SoundRhythm Studio
+# BeatBox-Jammer
 
 Dive into the world of musical creativity with SoundRhythm Studio! This web application allows you to create your own unique beats and melodies by simply clicking on buttons that trigger an array of band and drum sounds. Whether you're a seasoned musician or just looking to have some rhythmic fun, SoundRhythm Studio provides an intuitive and interactive platform to explore harmonies, compose tunes, and let your creativity flourish.
 
@@ -23,5 +23,11 @@ Check out the live demo [here](https://your-username.github.io/soundrhythm-studi
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
+## Acknowledgments
+
+- This Website was created as a part of [#100daysofcode] by [Divesh Dhek].
+- Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
+
+Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
 
 Happy music-making!
