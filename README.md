@@ -1,6 +1,6 @@
 # BeatBox-Jammer
 
-Dive into the world of musical creativity with SoundRhythm Studio! This web application allows you to create your own unique beats and melodies by simply clicking on buttons that trigger an array of band and drum sounds. Whether you're a seasoned musician or just looking to have some rhythmic fun, SoundRhythm Studio provides an intuitive and interactive platform to explore harmonies, compose tunes, and let your creativity flourish.
+Dive into the world of musical creativity with BeatBox-Jammer! This web application allows you to create your own unique beats and melodies by simply clicking on buttons that trigger an array of band and drum sounds. Whether you're a seasoned musician or just looking to have some rhythmic fun, BeatBox-Jammer provides an intuitive and interactive platform to explore harmonies, compose tunes, and let your creativity flourish.
 
 ## Features
 
@@ -10,13 +10,13 @@ Dive into the world of musical creativity with SoundRhythm Studio! This web appl
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/soundrhythm-studio.git`
+1. Clone the repository: `git clone https://github.com/diveshnew/BeatBox-Jammer.git`
 2. Open `index.html` in your preferred web browser.
 3. Start clicking buttons to create your musical compositions!
 
 ## Demo
 
-Check out the live demo [here](https://your-username.github.io/soundrhythm-studio).
+Check out the live demo [here](https://diveshnew.github.io/BeatBox-Jammer/).
 
 ## Screenshots
 
