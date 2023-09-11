@@ -18,16 +18,17 @@ Dive into the world of musical creativity with BeatBox-Jammer! This web applicat
 
 Check out the live demo [here](https://diveshnew.github.io/BeatBox-Jammer/).
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Acknowledgments
 
 - This Website was created as a part of [#100daysofcode] by [Divesh Dhek].
 - Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
 
-Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
+
+- Email: workwithdivesh@gmail.com
+- LinkedIn: [Divesh Dhek](https://www.linkedin.com/in/diveshdhek1/)
+
 
 Happy music-making!
